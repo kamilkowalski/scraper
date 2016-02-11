@@ -61,7 +61,7 @@ module Scraper
 
     def defaults
       {
-        workers: 5
+        workers: 20
       }
     end
   end
